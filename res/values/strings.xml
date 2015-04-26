@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Patient Monitor</string>
+    <string name="action_settings">about</string>
+    <string name="checkrec">Proceed</string>
+    <string name="welcome">Welcome to the Patient Monitoring System</string>
+    <string name="Description">This Android app will help you in monitoring patients\' status. Click the below "Proceed" button to check records. </string>
+    <string name="title_activity_records">Records</string>
+    <string name="output">From Web</string>
+    <string name="title_activity_about">About</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
